@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h2>Saad Inc.</h2> 
+  <h2>Saad Inc. India</h2> 
   <h1> Thankyou, Happy Learning </h1>
 
   
